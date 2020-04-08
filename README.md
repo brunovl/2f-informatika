@@ -1,2 +1,1 @@
-# 2f-informatika
-Rješenja zadataka i korištene funkcije
+# Rješenja zadataka i korištene funkcije - Informatika 2.F razred
